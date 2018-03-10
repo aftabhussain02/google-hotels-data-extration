@@ -1,0 +1,1 @@
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=26.908021,75.779925&rankby=distance&keyword=hotel&key=AIzaSyDmGcyp1ZxeXnWq7JO8dPZTPJVyncFKBlA

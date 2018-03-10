@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fabpot/goutte": "^3.2",
+        "guzzlehttp/guzzle": "^6.3",
+        "phpoffice/phpspreadsheet": "^1.2"
+    }
+}
